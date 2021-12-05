@@ -1,0 +1,16 @@
+/*リセットCSS*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.icons i {
+  font-size: 32px;
+}
+
+.position {
+  position: absolute;
+  top: 100px;
+  right: 40px;
+}
